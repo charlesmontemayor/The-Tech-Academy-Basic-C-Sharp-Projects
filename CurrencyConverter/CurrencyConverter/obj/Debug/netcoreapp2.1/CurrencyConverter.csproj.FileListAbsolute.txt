@@ -1,0 +1,11 @@
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.csprojAssemblyReference.cache
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.csproj.CoreCompileInputs.cache
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.AssemblyInfoInputs.cache
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.AssemblyInfo.cs
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.deps.json
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.runtimeconfig.json
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.runtimeconfig.dev.json
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.dll
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.pdb
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.dll
+/Users/charlesm/Projects/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.pdb
