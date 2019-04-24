@@ -1,0 +1,11 @@
+/Users/charlesm/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.deps.json
+/Users/charlesm/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.runtimeconfig.json
+/Users/charlesm/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.runtimeconfig.dev.json
+/Users/charlesm/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.dll
+/Users/charlesm/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.pdb
+/Users/charlesm/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.csprojAssemblyReference.cache
+/Users/charlesm/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.csproj.CoreCompileInputs.cache
+/Users/charlesm/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.AssemblyInfoInputs.cache
+/Users/charlesm/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.AssemblyInfo.cs
+/Users/charlesm/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.dll
+/Users/charlesm/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.pdb
