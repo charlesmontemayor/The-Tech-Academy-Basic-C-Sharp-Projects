@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D05B8197-922F-47D7-8D87-64EC917A5324}|Default">
+  <MonoDevelop.Ide.ItemProperties.Constructors FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Constructors/Person.cs">
+    <Files>
+      <File FileName="Constructors/Program.cs" Line="1" Column="1" />
+      <File FileName="Constructors/Person.cs" Line="8" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Constructors" expanded="True">
+            <Node name="Constructors" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
